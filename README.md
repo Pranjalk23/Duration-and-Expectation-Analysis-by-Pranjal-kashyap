@@ -1,4 +1,4 @@
-# Duration-and-Expectation-Analysis-by-Pranjal-kashyap
+# Duration-and-Expectation-Analysis
 
 Overview
 This project provides tools and guidelines for performing duration and expectation analysis using Microsoft Excel. The repository includes sample data, 
@@ -26,16 +26,6 @@ Create charts and graphs (e.g., Gantt charts, line graphs, bar charts) to visual
 Expectation Analysis
 Compare actual durations against expected durations to identify discrepancies. Use conditional formatting to highlight tasks
 that exceed or fall short of expectations.
-
-Example
-Here’s a simple example to illustrate:
-
-Task	Start Date	End Date	Expected Duration (days)	Actual Duration (days)
-Task 1	01/01/2024	05/01/2024	4	4
-Task 2	02/01/2024	06/01/2024	3	4
-Task 3	03/01/2024	07/01/2024	5	4
-Task 4	04/01/2024	08/01/2024	4	4
-Descriptive Analysis: Calculate the average actual duration using =AVERAGE(E2:E5).
 
 Reporting
 Summarize your findings in a separate sheet or a report. Use text boxes to add explanations and insights. Ensure your report is clear and easy to understand. 
